@@ -1,0 +1,15 @@
+#!/bin/bash
+
+################ GENERAL COMMANDS
+alias ll='ls -l'
+alias lh='ls -lh'
+
+############### EXIT COMMANDS
+alias e='exit'
+alias r='reboot'
+alias s='shutdown now'
+
+############## SSH COMMANDS
+alias scr='ssh cluster_root'
+alias scf='ssh cluster_fnavarro'
+
