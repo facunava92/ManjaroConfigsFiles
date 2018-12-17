@@ -1,0 +1,11 @@
+Host cluster_root
+	Hostname 200.45.112.30
+	User	root
+	Port	2230
+	IdentityFile ~/.ssh/keys/cluster_key/id_rsa_cluster
+
+Host cluster_fnavarro
+	Hostname 200.45.112.30
+	User	fnavarro	
+	Port	2230
+	IdentityFile ~/.ssh/keys/fnavarro_key/fnavarro
